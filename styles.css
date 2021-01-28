@@ -1,0 +1,14 @@
+img.uno{
+    float: left;
+}
+img.dos{
+    float: right;
+}
+
+article.health-art1{
+    float: right;
+}
+
+body.un{
+    background-color: bisque;
+}
