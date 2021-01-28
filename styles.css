@@ -1,0 +1,14 @@
+*,
+*:before,
+*:after ,
+
+.main-menu__item {
+    list-style-type: none;
+  }
+  
+li {
+    background-color: #ffffff;
+    float: left;
+    text-align: center;
+    width: 10em;
+  }
